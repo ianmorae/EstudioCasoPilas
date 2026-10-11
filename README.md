@@ -1,6 +1,6 @@
 # Analizador de expresiones aritméticas con pilas
 
-Primer estudio de caso — SOFT-10 Estructuras de Datos (SCV4, C3-2026)
+Primer estudio de caso — SOFT-10 Estructuras de Datos (C3-2026)
 Universidad CENFOTEC · Docente: Romario Salas Cerdas
 Estudiante: Ian Aarón Mora Espinoza
 
@@ -27,18 +27,6 @@ src/
 ├── AnalizadorExpresiones.java Tokenización, validación, conversión y evaluación
 └── Main.java                  Rutina main() y menú
 ```
-
-## Cómo ejecutar
-
-Desde la carpeta del proyecto:
-
-```bash
-javac -d out src/*.java
-java -cp out Main
-```
-
-También se puede abrir la carpeta en Visual Studio Code (con el Extension Pack for Java) y
-ejecutar `Main.java`.
 
 ## Ejemplo
 
