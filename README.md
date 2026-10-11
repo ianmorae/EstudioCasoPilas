@@ -1,8 +1,9 @@
 # Analizador de expresiones aritméticas con pilas
 
-Primer estudio de caso — SOFT-10 Estructuras de Datos (SCV4, C3-2026)
-Universidad CENFOTEC · Docente: Romario Salas Cerdas
-Estudiante: Ian Aarón Mora Espinoza
+**Primer estudio de caso** — SOFT-10 Estructuras de Datos (C3-2026)<br>
+**Universidad CENFOTEC**<br>
+**Docente:** Romario Salas Cerdas<br>
+**Estudiante:** Ian Aarón Mora Espinoza
 
 ## Descripción
 
