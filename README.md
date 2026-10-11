@@ -29,18 +29,6 @@ src/
 └── Main.java                  Rutina main() y menú
 ```
 
-## Cómo ejecutar
-
-Desde la carpeta del proyecto:
-
-```bash
-javac -d out src/*.java
-java -cp out Main
-```
-
-También se puede abrir la carpeta en Visual Studio Code (con el Extension Pack for Java) y
-ejecutar `Main.java`.
-
 ## Ejemplo
 
 ```
